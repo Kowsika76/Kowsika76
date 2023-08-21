@@ -38,7 +38,7 @@ I am a **ECE** graduate 👩‍🎓 with **9.38** CGPA, from VCET,TN.
 + "**Co-Ordinator**" for IPT & Internship
 + "**Senate Member**" in TMC
  
-### :link: **Certifications :medal_sports: **
+### :link: **Certifications :medal_sports:**
 + Successfully completed the course on Experimental - Project based Learning Team2Solve & Code2Build
 + Published a paper entitled [Dual Axis Solar Tracker with Power Level Monitor in IJIRSET, Volume 12, Issue 13](http://www.ijirset.com/upload/2023/icrdet-23/19_Dual.pdf)
 + Presented a paper on Dual Axis Solar Tracker with Power Level Monitor in Sixth International Conference on Recent Developments in Engineering, Science & Technology by Dhaanish Ahmed Institute of Technology.
